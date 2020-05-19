@@ -1,0 +1,8 @@
+To load the data : 
+Go to the cloud platform
+Type : cd ../datasets/plankton/flowcam 
+Then cp * ~/
+
+Installing Keras on Zoe Cloud platform:
+$ python3 -m pip install --upgrade pip
+$ python3 -m pip install keras
